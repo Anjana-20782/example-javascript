@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(120deg, #ffecd2, #fcb69f);
+  /* background: linear-gradient(120deg, #ffecd2, #fcb69f); */
   font-family: 'Poppins', sans-serif;
   display: flex;
   justify-content: center;
@@ -34,7 +34,7 @@ input[type="file"] {
 
 input[type="submit"] {
   width: 100%;
-  background-color: #ff7b54;
+  background-color: #1c8dca;
   border: none;
   padding: 12px;
   border-radius: 10px;
