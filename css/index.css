@@ -7,7 +7,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #f2f5ff, #d7e1ff);
+  /* background: linear-gradient(135deg, #f2f5ff, #d7e1ff); */
   color: #333;
   min-height: 100vh;
   display: flex;
@@ -38,7 +38,7 @@ button:hover {
   width: 100%;
   background-color: #fff;
   padding: 15px 40px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  /* box-shadow: 0 2px 10px rgba(0,0,0,0.1); */
   display: flex;
   justify-content: flex-end;
 }
