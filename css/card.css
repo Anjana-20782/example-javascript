@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(135deg, #89f7fe, #66a6ff);
+  /* background: linear-gradient(135deg, #89f7fe, #66a6ff); */
   font-family: 'Poppins', sans-serif;
   display: flex;
   justify-content: center;
@@ -19,7 +19,7 @@ body {
 .card img {
   border-radius: 12px;
   object-fit: cover;
-  border: 3px solid #0ba29d;
+  /* border: 3px solid #0ba29d; */
 }
 
 .card p {
@@ -29,7 +29,7 @@ body {
 }
 
 button {
-  background-color: #0ba29d;
+  background-color: #0b89a2;
   border: none;
   color: white;
   padding: 10px 20px;
